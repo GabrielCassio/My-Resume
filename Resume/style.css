@@ -1,0 +1,17 @@
+body
+{
+    background-color: rgb(223, 223, 223);
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana,
+    sans-serif;
+    line-height: 1.6;
+}
+.container
+{
+    margin: 0 auto;
+    width: 960px;
+}
+.color_link a
+{
+    color: darkred;
+    font-weight: bold;
+}
