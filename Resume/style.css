@@ -1,31 +1,6 @@
-body
-{
-    background-color:dimgrey;
-    font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana,
-    sans-serif;
-    line-height: 1.6;
-    margin: 0 auto;
-    width: 960px;
-}
-.place1{
-    background-color: aliceblue;
-    float: right;
-    padding: 20px;
-}
-.place2{
-    background-color: rgb(77, 77, 77);
-    height: 750px;
-    width: 220px;
-    padding: 10px;
-}
-.text1{
-    color:gray;
-}
-.text2{
-    text-align: center;
-
-}
-.text2 a{
-    color:gray;
-    font-weight: bold;
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    text-decoration: none;
 }
